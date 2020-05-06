@@ -18,3 +18,6 @@ hashName2 = {
     'key2' => 2
     }
 hashName2.sort_by(|key, val|val)
+
+#iterate through keys
+hashName.each_key(|key| puts key)
