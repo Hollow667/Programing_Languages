@@ -1,0 +1,7 @@
+/*
+  Final Keyword
+  
+  final variable is like a constact variable that can initialized only when decleared
+  final class can not be inhertied
+  final method can not be overriden in subclasses
+*/
