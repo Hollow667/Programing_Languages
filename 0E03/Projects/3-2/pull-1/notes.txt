@@ -1,0 +1,7 @@
+Enter item number: 1
+
+runtime error R6002
+- floating point not loaded
+
+
+???why
