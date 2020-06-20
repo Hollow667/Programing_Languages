@@ -1,0 +1,1 @@
+#define REC_AREA(x,y) (x*y)
